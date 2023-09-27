@@ -1,0 +1,19 @@
+Bam Nat 111222333 121234 CD 200.55 11/13/2022 Open
+Tom Hanks 555666777 222222 CD 5000.00 8/9/2022 Open
+Garry Sue 090888767 322343 Savings 599.55 Open
+Rat Scally 989555434 322222 Checking 32.00 Open 
+Beth Wilder 676767666 505050 CD 0.00 8/23/2022 Open
+Jane Doe 333333333 234567 Checking 50.00 Open
+John Doe 999999999 854338 Checking 600.00 Open
+John Doe 999999999 854337 CD 0.00 6/23/2019 Open
+Ramond Hernan 222888999 444444 Checking 2.50 Open
+Parker James 111188889 987098 Checking 100.00 Open
+Hector Brety 222333444 567890 Checking 1234.56 Open
+Eagor Vankman 999888777 987654 Savings 2.33 Open
+Marry Sue 444666888 333333 Checking 999.99 Open
+
+
+
+
+
+
